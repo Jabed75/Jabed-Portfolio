@@ -1,7 +1,7 @@
 const educationData = [
   {
     degree: "Bachelor of Science in Computer Science & Engineering",
-    institution: "Chittagong University of Engineering & Technology",
+    institution: "Chittagong University of Engineering & Technology(CUET)",
     duration: "2026 - Present",
     description: "Focused on Software Engineering, Data Structures, Algorithms, and Web Development."
   },

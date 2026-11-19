@@ -23,7 +23,7 @@ const projects = [
     tags: ["Next.js", "MongoDB", "HeroUI"],
     liveUrl: "#",
     githubUrl: "#",
-  },
+  },\
 ];
 
 export default function Projects() {
