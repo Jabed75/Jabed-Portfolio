@@ -15,14 +15,7 @@ const projects = [
     liveUrl: "#",
     githubUrl: "#",
   },
-  {
-    title: "Doctors Booking System",
-    category: "Full Stack / Frontend Design",
-    description: "A responsive healthcare appointment platform allowing patients to browse doctors by specialty, check availability, book appointments, and manage schedules with a clean user interface.",
-    tags: ["Next.js", "Tailwind CSS", "DaisyUI"],
-    liveUrl: "#",
-    githubUrl: "#",
-}
+  
   {
     title: "Tutor Booking Systems",
     category: "Web Application",
